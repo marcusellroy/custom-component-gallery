@@ -1,6 +1,6 @@
-name: Submission Reminder
-
-  on:
+name: Submission Reminder                                                                                       
+                                                                                                                  
+  "on":
     pull_request:
       types: [opened]
       
